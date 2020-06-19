@@ -1,0 +1,298 @@
+"Notes"	"State"	"State Code"	"Age Group"	"Age Group Code"	"Ethnicity"	"Ethnicity Code"	"Race"	"Race Code"	Population
+	"Illinois"	"17"	"0-4 years"	"0-4"	"Hispanic or Latino"	"2135-2"	"American Indian or Alaska Native"	"1002-5"	2767
+	"Illinois"	"17"	"0-4 years"	"0-4"	"Hispanic or Latino"	"2135-2"	"Asian"	"A"	1338
+	"Illinois"	"17"	"0-4 years"	"0-4"	"Hispanic or Latino"	"2135-2"	"Black or African American"	"2054-5"	6048
+	"Illinois"	"17"	"0-4 years"	"0-4"	"Hispanic or Latino"	"2135-2"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	323
+	"Illinois"	"17"	"0-4 years"	"0-4"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	167624
+	"Illinois"	"17"	"0-4 years"	"0-4"	"Hispanic or Latino"	"2135-2"	"More than one race"	"M"	6151
+"Total"	"Illinois"	"17"	"0-4 years"	"0-4"	"Hispanic or Latino"	"2135-2"			184251
+	"Illinois"	"17"	"0-4 years"	"0-4"	"Not Hispanic or Latino"	"2186-5"	"American Indian or Alaska Native"	"1002-5"	910
+	"Illinois"	"17"	"0-4 years"	"0-4"	"Not Hispanic or Latino"	"2186-5"	"Asian"	"A"	39758
+	"Illinois"	"17"	"0-4 years"	"0-4"	"Not Hispanic or Latino"	"2186-5"	"Black or African American"	"2054-5"	117702
+	"Illinois"	"17"	"0-4 years"	"0-4"	"Not Hispanic or Latino"	"2186-5"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	280
+	"Illinois"	"17"	"0-4 years"	"0-4"	"Not Hispanic or Latino"	"2186-5"	"White"	"2106-3"	388773
+	"Illinois"	"17"	"0-4 years"	"0-4"	"Not Hispanic or Latino"	"2186-5"	"More than one race"	"M"	28945
+"Total"	"Illinois"	"17"	"0-4 years"	"0-4"	"Not Hispanic or Latino"	"2186-5"			576368
+"Total"	"Illinois"	"17"	"0-4 years"	"0-4"					760619
+	"Illinois"	"17"	"5-9 years"	"5-9"	"Hispanic or Latino"	"2135-2"	"American Indian or Alaska Native"	"1002-5"	2959
+	"Illinois"	"17"	"5-9 years"	"5-9"	"Hispanic or Latino"	"2135-2"	"Asian"	"A"	1365
+	"Illinois"	"17"	"5-9 years"	"5-9"	"Hispanic or Latino"	"2135-2"	"Black or African American"	"2054-5"	6152
+	"Illinois"	"17"	"5-9 years"	"5-9"	"Hispanic or Latino"	"2135-2"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	320
+	"Illinois"	"17"	"5-9 years"	"5-9"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	178902
+	"Illinois"	"17"	"5-9 years"	"5-9"	"Hispanic or Latino"	"2135-2"	"More than one race"	"M"	6117
+"Total"	"Illinois"	"17"	"5-9 years"	"5-9"	"Hispanic or Latino"	"2135-2"			195815
+	"Illinois"	"17"	"5-9 years"	"5-9"	"Not Hispanic or Latino"	"2186-5"	"American Indian or Alaska Native"	"1002-5"	1046
+	"Illinois"	"17"	"5-9 years"	"5-9"	"Not Hispanic or Latino"	"2186-5"	"Asian"	"A"	41656
+	"Illinois"	"17"	"5-9 years"	"5-9"	"Not Hispanic or Latino"	"2186-5"	"Black or African American"	"2054-5"	117887
+	"Illinois"	"17"	"5-9 years"	"5-9"	"Not Hispanic or Latino"	"2186-5"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	275
+	"Illinois"	"17"	"5-9 years"	"5-9"	"Not Hispanic or Latino"	"2186-5"	"White"	"2106-3"	393216
+	"Illinois"	"17"	"5-9 years"	"5-9"	"Not Hispanic or Latino"	"2186-5"	"More than one race"	"M"	28207
+"Total"	"Illinois"	"17"	"5-9 years"	"5-9"	"Not Hispanic or Latino"	"2186-5"			582287
+"Total"	"Illinois"	"17"	"5-9 years"	"5-9"					778102
+	"Illinois"	"17"	"10-14 years"	"10-14"	"Hispanic or Latino"	"2135-2"	"American Indian or Alaska Native"	"1002-5"	5644
+	"Illinois"	"17"	"10-14 years"	"10-14"	"Hispanic or Latino"	"2135-2"	"Asian"	"A"	1764
+	"Illinois"	"17"	"10-14 years"	"10-14"	"Hispanic or Latino"	"2135-2"	"Black or African American"	"2054-5"	8053
+	"Illinois"	"17"	"10-14 years"	"10-14"	"Hispanic or Latino"	"2135-2"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	404
+	"Illinois"	"17"	"10-14 years"	"10-14"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	188429
+	"Illinois"	"17"	"10-14 years"	"10-14"	"Hispanic or Latino"	"2135-2"	"More than one race"	"M"	5968
+"Total"	"Illinois"	"17"	"10-14 years"	"10-14"	"Hispanic or Latino"	"2135-2"			210262
+	"Illinois"	"17"	"10-14 years"	"10-14"	"Not Hispanic or Latino"	"2186-5"	"American Indian or Alaska Native"	"1002-5"	1171
+	"Illinois"	"17"	"10-14 years"	"10-14"	"Not Hispanic or Latino"	"2186-5"	"Asian"	"A"	41730
+	"Illinois"	"17"	"10-14 years"	"10-14"	"Not Hispanic or Latino"	"2186-5"	"Black or African American"	"2054-5"	121264
+	"Illinois"	"17"	"10-14 years"	"10-14"	"Not Hispanic or Latino"	"2186-5"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	181
+	"Illinois"	"17"	"10-14 years"	"10-14"	"Not Hispanic or Latino"	"2186-5"	"White"	"2106-3"	417363
+	"Illinois"	"17"	"10-14 years"	"10-14"	"Not Hispanic or Latino"	"2186-5"	"More than one race"	"M"	27177
+"Total"	"Illinois"	"17"	"10-14 years"	"10-14"	"Not Hispanic or Latino"	"2186-5"			608886
+"Total"	"Illinois"	"17"	"10-14 years"	"10-14"					819148
+	"Illinois"	"17"	"15-19 years"	"15-19"	"Hispanic or Latino"	"2135-2"	"American Indian or Alaska Native"	"1002-5"	5553
+	"Illinois"	"17"	"15-19 years"	"15-19"	"Hispanic or Latino"	"2135-2"	"Asian"	"A"	1561
+	"Illinois"	"17"	"15-19 years"	"15-19"	"Hispanic or Latino"	"2135-2"	"Black or African American"	"2054-5"	6981
+	"Illinois"	"17"	"15-19 years"	"15-19"	"Hispanic or Latino"	"2135-2"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	388
+	"Illinois"	"17"	"15-19 years"	"15-19"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	178419
+	"Illinois"	"17"	"15-19 years"	"15-19"	"Hispanic or Latino"	"2135-2"	"More than one race"	"M"	5014
+"Total"	"Illinois"	"17"	"15-19 years"	"15-19"	"Hispanic or Latino"	"2135-2"			197916
+	"Illinois"	"17"	"15-19 years"	"15-19"	"Not Hispanic or Latino"	"2186-5"	"American Indian or Alaska Native"	"1002-5"	1158
+	"Illinois"	"17"	"15-19 years"	"15-19"	"Not Hispanic or Latino"	"2186-5"	"Asian"	"A"	42213
+	"Illinois"	"17"	"15-19 years"	"15-19"	"Not Hispanic or Latino"	"2186-5"	"Black or African American"	"2054-5"	127620
+	"Illinois"	"17"	"15-19 years"	"15-19"	"Not Hispanic or Latino"	"2186-5"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	221
+	"Illinois"	"17"	"15-19 years"	"15-19"	"Not Hispanic or Latino"	"2186-5"	"White"	"2106-3"	435906
+	"Illinois"	"17"	"15-19 years"	"15-19"	"Not Hispanic or Latino"	"2186-5"	"More than one race"	"M"	23171
+"Total"	"Illinois"	"17"	"15-19 years"	"15-19"	"Not Hispanic or Latino"	"2186-5"			630289
+"Total"	"Illinois"	"17"	"15-19 years"	"15-19"					828205
+	"Illinois"	"17"	"20-24 years"	"20-24"	"Hispanic or Latino"	"2135-2"	"American Indian or Alaska Native"	"1002-5"	5048
+	"Illinois"	"17"	"20-24 years"	"20-24"	"Hispanic or Latino"	"2135-2"	"Asian"	"A"	1452
+	"Illinois"	"17"	"20-24 years"	"20-24"	"Hispanic or Latino"	"2135-2"	"Black or African American"	"2054-5"	6165
+	"Illinois"	"17"	"20-24 years"	"20-24"	"Hispanic or Latino"	"2135-2"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	457
+	"Illinois"	"17"	"20-24 years"	"20-24"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	163430
+	"Illinois"	"17"	"20-24 years"	"20-24"	"Hispanic or Latino"	"2135-2"	"More than one race"	"M"	4285
+"Total"	"Illinois"	"17"	"20-24 years"	"20-24"	"Hispanic or Latino"	"2135-2"			180837
+	"Illinois"	"17"	"20-24 years"	"20-24"	"Not Hispanic or Latino"	"2186-5"	"American Indian or Alaska Native"	"1002-5"	1336
+	"Illinois"	"17"	"20-24 years"	"20-24"	"Not Hispanic or Latino"	"2186-5"	"Asian"	"A"	53383
+	"Illinois"	"17"	"20-24 years"	"20-24"	"Not Hispanic or Latino"	"2186-5"	"Black or African American"	"2054-5"	139196
+	"Illinois"	"17"	"20-24 years"	"20-24"	"Not Hispanic or Latino"	"2186-5"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	270
+	"Illinois"	"17"	"20-24 years"	"20-24"	"Not Hispanic or Latino"	"2186-5"	"White"	"2106-3"	452687
+	"Illinois"	"17"	"20-24 years"	"20-24"	"Not Hispanic or Latino"	"2186-5"	"More than one race"	"M"	19793
+"Total"	"Illinois"	"17"	"20-24 years"	"20-24"	"Not Hispanic or Latino"	"2186-5"			666665
+"Total"	"Illinois"	"17"	"20-24 years"	"20-24"					847502
+	"Illinois"	"17"	"25-29 years"	"25-29"	"Hispanic or Latino"	"2135-2"	"American Indian or Alaska Native"	"1002-5"	4904
+	"Illinois"	"17"	"25-29 years"	"25-29"	"Hispanic or Latino"	"2135-2"	"Asian"	"A"	1367
+	"Illinois"	"17"	"25-29 years"	"25-29"	"Hispanic or Latino"	"2135-2"	"Black or African American"	"2054-5"	5959
+	"Illinois"	"17"	"25-29 years"	"25-29"	"Hispanic or Latino"	"2135-2"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	511
+	"Illinois"	"17"	"25-29 years"	"25-29"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	156491
+	"Illinois"	"17"	"25-29 years"	"25-29"	"Hispanic or Latino"	"2135-2"	"More than one race"	"M"	3739
+"Total"	"Illinois"	"17"	"25-29 years"	"25-29"	"Hispanic or Latino"	"2135-2"			172971
+	"Illinois"	"17"	"25-29 years"	"25-29"	"Not Hispanic or Latino"	"2186-5"	"American Indian or Alaska Native"	"1002-5"	1466
+	"Illinois"	"17"	"25-29 years"	"25-29"	"Not Hispanic or Latino"	"2186-5"	"Asian"	"A"	63266
+	"Illinois"	"17"	"25-29 years"	"25-29"	"Not Hispanic or Latino"	"2186-5"	"Black or African American"	"2054-5"	151839
+	"Illinois"	"17"	"25-29 years"	"25-29"	"Not Hispanic or Latino"	"2186-5"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	296
+	"Illinois"	"17"	"25-29 years"	"25-29"	"Not Hispanic or Latino"	"2186-5"	"White"	"2106-3"	497936
+	"Illinois"	"17"	"25-29 years"	"25-29"	"Not Hispanic or Latino"	"2186-5"	"More than one race"	"M"	16006
+"Total"	"Illinois"	"17"	"25-29 years"	"25-29"	"Not Hispanic or Latino"	"2186-5"			730809
+"Total"	"Illinois"	"17"	"25-29 years"	"25-29"					903780
+	"Illinois"	"17"	"30-34 years"	"30-34"	"Hispanic or Latino"	"2135-2"	"American Indian or Alaska Native"	"1002-5"	4529
+	"Illinois"	"17"	"30-34 years"	"30-34"	"Hispanic or Latino"	"2135-2"	"Asian"	"A"	1192
+	"Illinois"	"17"	"30-34 years"	"30-34"	"Hispanic or Latino"	"2135-2"	"Black or African American"	"2054-5"	5383
+	"Illinois"	"17"	"30-34 years"	"30-34"	"Hispanic or Latino"	"2135-2"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	450
+	"Illinois"	"17"	"30-34 years"	"30-34"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	151170
+	"Illinois"	"17"	"30-34 years"	"30-34"	"Hispanic or Latino"	"2135-2"	"More than one race"	"M"	3229
+"Total"	"Illinois"	"17"	"30-34 years"	"30-34"	"Hispanic or Latino"	"2135-2"			165953
+	"Illinois"	"17"	"30-34 years"	"30-34"	"Not Hispanic or Latino"	"2186-5"	"American Indian or Alaska Native"	"1002-5"	1333
+	"Illinois"	"17"	"30-34 years"	"30-34"	"Not Hispanic or Latino"	"2186-5"	"Asian"	"A"	66915
+	"Illinois"	"17"	"30-34 years"	"30-34"	"Not Hispanic or Latino"	"2186-5"	"Black or African American"	"2054-5"	119897
+	"Illinois"	"17"	"30-34 years"	"30-34"	"Not Hispanic or Latino"	"2186-5"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	334
+	"Illinois"	"17"	"30-34 years"	"30-34"	"Not Hispanic or Latino"	"2186-5"	"White"	"2106-3"	499989
+	"Illinois"	"17"	"30-34 years"	"30-34"	"Not Hispanic or Latino"	"2186-5"	"More than one race"	"M"	11580
+"Total"	"Illinois"	"17"	"30-34 years"	"30-34"	"Not Hispanic or Latino"	"2186-5"			700048
+"Total"	"Illinois"	"17"	"30-34 years"	"30-34"					866001
+	"Illinois"	"17"	"35-39 years"	"35-39"	"Hispanic or Latino"	"2135-2"	"American Indian or Alaska Native"	"1002-5"	4724
+	"Illinois"	"17"	"35-39 years"	"35-39"	"Hispanic or Latino"	"2135-2"	"Asian"	"A"	1236
+	"Illinois"	"17"	"35-39 years"	"35-39"	"Hispanic or Latino"	"2135-2"	"Black or African American"	"2054-5"	5318
+	"Illinois"	"17"	"35-39 years"	"35-39"	"Hispanic or Latino"	"2135-2"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	362
+	"Illinois"	"17"	"35-39 years"	"35-39"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	155087
+	"Illinois"	"17"	"35-39 years"	"35-39"	"Hispanic or Latino"	"2135-2"	"More than one race"	"M"	3159
+"Total"	"Illinois"	"17"	"35-39 years"	"35-39"	"Hispanic or Latino"	"2135-2"			169886
+	"Illinois"	"17"	"35-39 years"	"35-39"	"Not Hispanic or Latino"	"2186-5"	"American Indian or Alaska Native"	"1002-5"	1264
+	"Illinois"	"17"	"35-39 years"	"35-39"	"Not Hispanic or Latino"	"2186-5"	"Asian"	"A"	63750
+	"Illinois"	"17"	"35-39 years"	"35-39"	"Not Hispanic or Latino"	"2186-5"	"Black or African American"	"2054-5"	114811
+	"Illinois"	"17"	"35-39 years"	"35-39"	"Not Hispanic or Latino"	"2186-5"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	295
+	"Illinois"	"17"	"35-39 years"	"35-39"	"Not Hispanic or Latino"	"2186-5"	"White"	"2106-3"	494728
+	"Illinois"	"17"	"35-39 years"	"35-39"	"Not Hispanic or Latino"	"2186-5"	"More than one race"	"M"	9787
+"Total"	"Illinois"	"17"	"35-39 years"	"35-39"	"Not Hispanic or Latino"	"2186-5"			684635
+"Total"	"Illinois"	"17"	"35-39 years"	"35-39"					854521
+	"Illinois"	"17"	"40-44 years"	"40-44"	"Hispanic or Latino"	"2135-2"	"American Indian or Alaska Native"	"1002-5"	4567
+	"Illinois"	"17"	"40-44 years"	"40-44"	"Hispanic or Latino"	"2135-2"	"Asian"	"A"	1198
+	"Illinois"	"17"	"40-44 years"	"40-44"	"Hispanic or Latino"	"2135-2"	"Black or African American"	"2054-5"	4587
+	"Illinois"	"17"	"40-44 years"	"40-44"	"Hispanic or Latino"	"2135-2"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	334
+	"Illinois"	"17"	"40-44 years"	"40-44"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	149515
+	"Illinois"	"17"	"40-44 years"	"40-44"	"Hispanic or Latino"	"2135-2"	"More than one race"	"M"	2710
+"Total"	"Illinois"	"17"	"40-44 years"	"40-44"	"Hispanic or Latino"	"2135-2"			162911
+	"Illinois"	"17"	"40-44 years"	"40-44"	"Not Hispanic or Latino"	"2186-5"	"American Indian or Alaska Native"	"1002-5"	1149
+	"Illinois"	"17"	"40-44 years"	"40-44"	"Not Hispanic or Latino"	"2186-5"	"Asian"	"A"	56512
+	"Illinois"	"17"	"40-44 years"	"40-44"	"Not Hispanic or Latino"	"2186-5"	"Black or African American"	"2054-5"	105047
+	"Illinois"	"17"	"40-44 years"	"40-44"	"Not Hispanic or Latino"	"2186-5"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	256
+	"Illinois"	"17"	"40-44 years"	"40-44"	"Not Hispanic or Latino"	"2186-5"	"White"	"2106-3"	451291
+	"Illinois"	"17"	"40-44 years"	"40-44"	"Not Hispanic or Latino"	"2186-5"	"More than one race"	"M"	8038
+"Total"	"Illinois"	"17"	"40-44 years"	"40-44"	"Not Hispanic or Latino"	"2186-5"			622293
+"Total"	"Illinois"	"17"	"40-44 years"	"40-44"					785204
+	"Illinois"	"17"	"45-49 years"	"45-49"	"Hispanic or Latino"	"2135-2"	"American Indian or Alaska Native"	"1002-5"	4324
+	"Illinois"	"17"	"45-49 years"	"45-49"	"Hispanic or Latino"	"2135-2"	"Asian"	"A"	1071
+	"Illinois"	"17"	"45-49 years"	"45-49"	"Hispanic or Latino"	"2135-2"	"Black or African American"	"2054-5"	3742
+	"Illinois"	"17"	"45-49 years"	"45-49"	"Hispanic or Latino"	"2135-2"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	314
+	"Illinois"	"17"	"45-49 years"	"45-49"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	134333
+	"Illinois"	"17"	"45-49 years"	"45-49"	"Hispanic or Latino"	"2135-2"	"More than one race"	"M"	2341
+"Total"	"Illinois"	"17"	"45-49 years"	"45-49"	"Hispanic or Latino"	"2135-2"			146125
+	"Illinois"	"17"	"45-49 years"	"45-49"	"Not Hispanic or Latino"	"2186-5"	"American Indian or Alaska Native"	"1002-5"	1314
+	"Illinois"	"17"	"45-49 years"	"45-49"	"Not Hispanic or Latino"	"2186-5"	"Asian"	"A"	53763
+	"Illinois"	"17"	"45-49 years"	"45-49"	"Not Hispanic or Latino"	"2186-5"	"Black or African American"	"2054-5"	113467
+	"Illinois"	"17"	"45-49 years"	"45-49"	"Not Hispanic or Latino"	"2186-5"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	239
+	"Illinois"	"17"	"45-49 years"	"45-49"	"Not Hispanic or Latino"	"2186-5"	"White"	"2106-3"	495746
+	"Illinois"	"17"	"45-49 years"	"45-49"	"Not Hispanic or Latino"	"2186-5"	"More than one race"	"M"	7239
+"Total"	"Illinois"	"17"	"45-49 years"	"45-49"	"Not Hispanic or Latino"	"2186-5"			671768
+"Total"	"Illinois"	"17"	"45-49 years"	"45-49"					817893
+	"Illinois"	"17"	"50-54 years"	"50-54"	"Hispanic or Latino"	"2135-2"	"American Indian or Alaska Native"	"1002-5"	3297
+	"Illinois"	"17"	"50-54 years"	"50-54"	"Hispanic or Latino"	"2135-2"	"Asian"	"A"	802
+	"Illinois"	"17"	"50-54 years"	"50-54"	"Hispanic or Latino"	"2135-2"	"Black or African American"	"2054-5"	2866
+	"Illinois"	"17"	"50-54 years"	"50-54"	"Hispanic or Latino"	"2135-2"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	262
+	"Illinois"	"17"	"50-54 years"	"50-54"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	109040
+	"Illinois"	"17"	"50-54 years"	"50-54"	"Hispanic or Latino"	"2135-2"	"More than one race"	"M"	1825
+"Total"	"Illinois"	"17"	"50-54 years"	"50-54"	"Hispanic or Latino"	"2135-2"			118092
+	"Illinois"	"17"	"50-54 years"	"50-54"	"Not Hispanic or Latino"	"2186-5"	"American Indian or Alaska Native"	"1002-5"	1374
+	"Illinois"	"17"	"50-54 years"	"50-54"	"Not Hispanic or Latino"	"2186-5"	"Asian"	"A"	43064
+	"Illinois"	"17"	"50-54 years"	"50-54"	"Not Hispanic or Latino"	"2186-5"	"Black or African American"	"2054-5"	111491
+	"Illinois"	"17"	"50-54 years"	"50-54"	"Not Hispanic or Latino"	"2186-5"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	214
+	"Illinois"	"17"	"50-54 years"	"50-54"	"Not Hispanic or Latino"	"2186-5"	"White"	"2106-3"	541540
+	"Illinois"	"17"	"50-54 years"	"50-54"	"Not Hispanic or Latino"	"2186-5"	"More than one race"	"M"	6182
+"Total"	"Illinois"	"17"	"50-54 years"	"50-54"	"Not Hispanic or Latino"	"2186-5"			703865
+"Total"	"Illinois"	"17"	"50-54 years"	"50-54"					821957
+	"Illinois"	"17"	"55-59 years"	"55-59"	"Hispanic or Latino"	"2135-2"	"American Indian or Alaska Native"	"1002-5"	2693
+	"Illinois"	"17"	"55-59 years"	"55-59"	"Hispanic or Latino"	"2135-2"	"Asian"	"A"	708
+	"Illinois"	"17"	"55-59 years"	"55-59"	"Hispanic or Latino"	"2135-2"	"Black or African American"	"2054-5"	2427
+	"Illinois"	"17"	"55-59 years"	"55-59"	"Hispanic or Latino"	"2135-2"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	225
+	"Illinois"	"17"	"55-59 years"	"55-59"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	88113
+	"Illinois"	"17"	"55-59 years"	"55-59"	"Hispanic or Latino"	"2135-2"	"More than one race"	"M"	1496
+"Total"	"Illinois"	"17"	"55-59 years"	"55-59"	"Hispanic or Latino"	"2135-2"			95662
+	"Illinois"	"17"	"55-59 years"	"55-59"	"Not Hispanic or Latino"	"2186-5"	"American Indian or Alaska Native"	"1002-5"	1547
+	"Illinois"	"17"	"55-59 years"	"55-59"	"Not Hispanic or Latino"	"2186-5"	"Asian"	"A"	38301
+	"Illinois"	"17"	"55-59 years"	"55-59"	"Not Hispanic or Latino"	"2186-5"	"Black or African American"	"2054-5"	117096
+	"Illinois"	"17"	"55-59 years"	"55-59"	"Not Hispanic or Latino"	"2186-5"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	237
+	"Illinois"	"17"	"55-59 years"	"55-59"	"Not Hispanic or Latino"	"2186-5"	"White"	"2106-3"	609052
+	"Illinois"	"17"	"55-59 years"	"55-59"	"Not Hispanic or Latino"	"2186-5"	"More than one race"	"M"	5703
+"Total"	"Illinois"	"17"	"55-59 years"	"55-59"	"Not Hispanic or Latino"	"2186-5"			771936
+"Total"	"Illinois"	"17"	"55-59 years"	"55-59"					867598
+	"Illinois"	"17"	"60-64 years "	"60-64"	"Hispanic or Latino"	"2135-2"	"American Indian or Alaska Native"	"1002-5"	2017
+	"Illinois"	"17"	"60-64 years "	"60-64"	"Hispanic or Latino"	"2135-2"	"Asian"	"A"	434
+	"Illinois"	"17"	"60-64 years "	"60-64"	"Hispanic or Latino"	"2135-2"	"Black or African American"	"2054-5"	1902
+	"Illinois"	"17"	"60-64 years "	"60-64"	"Hispanic or Latino"	"2135-2"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	172
+	"Illinois"	"17"	"60-64 years "	"60-64"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	69151
+	"Illinois"	"17"	"60-64 years "	"60-64"	"Hispanic or Latino"	"2135-2"	"More than one race"	"M"	1124
+"Total"	"Illinois"	"17"	"60-64 years "	"60-64"	"Hispanic or Latino"	"2135-2"			74800
+	"Illinois"	"17"	"60-64 years "	"60-64"	"Not Hispanic or Latino"	"2186-5"	"American Indian or Alaska Native"	"1002-5"	1329
+	"Illinois"	"17"	"60-64 years "	"60-64"	"Not Hispanic or Latino"	"2186-5"	"Asian"	"A"	36866
+	"Illinois"	"17"	"60-64 years "	"60-64"	"Not Hispanic or Latino"	"2186-5"	"Black or African American"	"2054-5"	103622
+	"Illinois"	"17"	"60-64 years "	"60-64"	"Not Hispanic or Latino"	"2186-5"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	191
+	"Illinois"	"17"	"60-64 years "	"60-64"	"Not Hispanic or Latino"	"2186-5"	"White"	"2106-3"	575769
+	"Illinois"	"17"	"60-64 years "	"60-64"	"Not Hispanic or Latino"	"2186-5"	"More than one race"	"M"	5012
+"Total"	"Illinois"	"17"	"60-64 years "	"60-64"	"Not Hispanic or Latino"	"2186-5"			722789
+"Total"	"Illinois"	"17"	"60-64 years "	"60-64"					797589
+	"Illinois"	"17"	"65-69 years"	"65-69"	"Hispanic or Latino"	"2135-2"	"American Indian or Alaska Native"	"1002-5"	1362
+	"Illinois"	"17"	"65-69 years"	"65-69"	"Hispanic or Latino"	"2135-2"	"Asian"	"A"	336
+	"Illinois"	"17"	"65-69 years"	"65-69"	"Hispanic or Latino"	"2135-2"	"Black or African American"	"2054-5"	1229
+	"Illinois"	"17"	"65-69 years"	"65-69"	"Hispanic or Latino"	"2135-2"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	136
+	"Illinois"	"17"	"65-69 years"	"65-69"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	48444
+	"Illinois"	"17"	"65-69 years"	"65-69"	"Hispanic or Latino"	"2135-2"	"More than one race"	"M"	726
+"Total"	"Illinois"	"17"	"65-69 years"	"65-69"	"Hispanic or Latino"	"2135-2"			52233
+	"Illinois"	"17"	"65-69 years"	"65-69"	"Not Hispanic or Latino"	"2186-5"	"American Indian or Alaska Native"	"1002-5"	1013
+	"Illinois"	"17"	"65-69 years"	"65-69"	"Not Hispanic or Latino"	"2186-5"	"Asian"	"A"	32230
+	"Illinois"	"17"	"65-69 years"	"65-69"	"Not Hispanic or Latino"	"2186-5"	"Black or African American"	"2054-5"	79909
+	"Illinois"	"17"	"65-69 years"	"65-69"	"Not Hispanic or Latino"	"2186-5"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	123
+	"Illinois"	"17"	"65-69 years"	"65-69"	"Not Hispanic or Latino"	"2186-5"	"White"	"2106-3"	480293
+	"Illinois"	"17"	"65-69 years"	"65-69"	"Not Hispanic or Latino"	"2186-5"	"More than one race"	"M"	3773
+"Total"	"Illinois"	"17"	"65-69 years"	"65-69"	"Not Hispanic or Latino"	"2186-5"			597341
+"Total"	"Illinois"	"17"	"65-69 years"	"65-69"					649574
+	"Illinois"	"17"	"70-74 years"	"70-74"	"Hispanic or Latino"	"2135-2"	"American Indian or Alaska Native"	"1002-5"	820
+	"Illinois"	"17"	"70-74 years"	"70-74"	"Hispanic or Latino"	"2135-2"	"Asian"	"A"	228
+	"Illinois"	"17"	"70-74 years"	"70-74"	"Hispanic or Latino"	"2135-2"	"Black or African American"	"2054-5"	853
+	"Illinois"	"17"	"70-74 years"	"70-74"	"Hispanic or Latino"	"2135-2"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	66
+	"Illinois"	"17"	"70-74 years"	"70-74"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	33017
+	"Illinois"	"17"	"70-74 years"	"70-74"	"Hispanic or Latino"	"2135-2"	"More than one race"	"M"	475
+"Total"	"Illinois"	"17"	"70-74 years"	"70-74"	"Hispanic or Latino"	"2135-2"			35459
+	"Illinois"	"17"	"70-74 years"	"70-74"	"Not Hispanic or Latino"	"2186-5"	"American Indian or Alaska Native"	"1002-5"	712
+	"Illinois"	"17"	"70-74 years"	"70-74"	"Not Hispanic or Latino"	"2186-5"	"Asian"	"A"	24491
+	"Illinois"	"17"	"70-74 years"	"70-74"	"Not Hispanic or Latino"	"2186-5"	"Black or African American"	"2054-5"	56834
+	"Illinois"	"17"	"70-74 years"	"70-74"	"Not Hispanic or Latino"	"2186-5"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	92
+	"Illinois"	"17"	"70-74 years"	"70-74"	"Not Hispanic or Latino"	"2186-5"	"White"	"2106-3"	372506
+	"Illinois"	"17"	"70-74 years"	"70-74"	"Not Hispanic or Latino"	"2186-5"	"More than one race"	"M"	2585
+"Total"	"Illinois"	"17"	"70-74 years"	"70-74"	"Not Hispanic or Latino"	"2186-5"			457220
+"Total"	"Illinois"	"17"	"70-74 years"	"70-74"					492679
+	"Illinois"	"17"	"75-79 years"	"75-79"	"Hispanic or Latino"	"2135-2"	"American Indian or Alaska Native"	"1002-5"	481
+	"Illinois"	"17"	"75-79 years"	"75-79"	"Hispanic or Latino"	"2135-2"	"Asian"	"A"	166
+	"Illinois"	"17"	"75-79 years"	"75-79"	"Hispanic or Latino"	"2135-2"	"Black or African American"	"2054-5"	554
+	"Illinois"	"17"	"75-79 years"	"75-79"	"Hispanic or Latino"	"2135-2"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	44
+	"Illinois"	"17"	"75-79 years"	"75-79"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	20399
+	"Illinois"	"17"	"75-79 years"	"75-79"	"Hispanic or Latino"	"2135-2"	"More than one race"	"M"	296
+"Total"	"Illinois"	"17"	"75-79 years"	"75-79"	"Hispanic or Latino"	"2135-2"			21940
+	"Illinois"	"17"	"75-79 years"	"75-79"	"Not Hispanic or Latino"	"2186-5"	"American Indian or Alaska Native"	"1002-5"	487
+	"Illinois"	"17"	"75-79 years"	"75-79"	"Not Hispanic or Latino"	"2186-5"	"Asian"	"A"	16277
+	"Illinois"	"17"	"75-79 years"	"75-79"	"Not Hispanic or Latino"	"2186-5"	"Black or African American"	"2054-5"	40324
+	"Illinois"	"17"	"75-79 years"	"75-79"	"Not Hispanic or Latino"	"2186-5"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	67
+	"Illinois"	"17"	"75-79 years"	"75-79"	"Not Hispanic or Latino"	"2186-5"	"White"	"2106-3"	267594
+	"Illinois"	"17"	"75-79 years"	"75-79"	"Not Hispanic or Latino"	"2186-5"	"More than one race"	"M"	1732
+"Total"	"Illinois"	"17"	"75-79 years"	"75-79"	"Not Hispanic or Latino"	"2186-5"			326481
+"Total"	"Illinois"	"17"	"75-79 years"	"75-79"					348421
+	"Illinois"	"17"	"80-84 years"	"80-84"	"Hispanic or Latino"	"2135-2"	"American Indian or Alaska Native"	"1002-5"	312
+	"Illinois"	"17"	"80-84 years"	"80-84"	"Hispanic or Latino"	"2135-2"	"Asian"	"A"	100
+	"Illinois"	"17"	"80-84 years"	"80-84"	"Hispanic or Latino"	"2135-2"	"Black or African American"	"2054-5"	403
+	"Illinois"	"17"	"80-84 years"	"80-84"	"Hispanic or Latino"	"2135-2"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	31
+	"Illinois"	"17"	"80-84 years"	"80-84"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	13464
+	"Illinois"	"17"	"80-84 years"	"80-84"	"Hispanic or Latino"	"2135-2"	"More than one race"	"M"	179
+"Total"	"Illinois"	"17"	"80-84 years"	"80-84"	"Hispanic or Latino"	"2135-2"			14489
+	"Illinois"	"17"	"80-84 years"	"80-84"	"Not Hispanic or Latino"	"2186-5"	"American Indian or Alaska Native"	"1002-5"	287
+	"Illinois"	"17"	"80-84 years"	"80-84"	"Not Hispanic or Latino"	"2186-5"	"Asian"	"A"	9749
+	"Illinois"	"17"	"80-84 years"	"80-84"	"Not Hispanic or Latino"	"2186-5"	"Black or African American"	"2054-5"	27076
+	"Illinois"	"17"	"80-84 years"	"80-84"	"Not Hispanic or Latino"	"2186-5"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	29
+	"Illinois"	"17"	"80-84 years"	"80-84"	"Not Hispanic or Latino"	"2186-5"	"White"	"2106-3"	182848
+	"Illinois"	"17"	"80-84 years"	"80-84"	"Not Hispanic or Latino"	"2186-5"	"More than one race"	"M"	1135
+"Total"	"Illinois"	"17"	"80-84 years"	"80-84"	"Not Hispanic or Latino"	"2186-5"			221124
+"Total"	"Illinois"	"17"	"80-84 years"	"80-84"					235613
+	"Illinois"	"17"	"85+ years"	"85+"	"Hispanic or Latino"	"2135-2"	"American Indian or Alaska Native"	"1002-5"	333
+	"Illinois"	"17"	"85+ years"	"85+"	"Hispanic or Latino"	"2135-2"	"Asian"	"A"	84
+	"Illinois"	"17"	"85+ years"	"85+"	"Hispanic or Latino"	"2135-2"	"Black or African American"	"2054-5"	371
+	"Illinois"	"17"	"85+ years"	"85+"	"Hispanic or Latino"	"2135-2"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	21
+	"Illinois"	"17"	"85+ years"	"85+"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	13537
+	"Illinois"	"17"	"85+ years"	"85+"	"Hispanic or Latino"	"2135-2"	"More than one race"	"M"	194
+"Total"	"Illinois"	"17"	"85+ years"	"85+"	"Hispanic or Latino"	"2135-2"			14540
+	"Illinois"	"17"	"85+ years"	"85+"	"Not Hispanic or Latino"	"2186-5"	"American Indian or Alaska Native"	"1002-5"	337
+	"Illinois"	"17"	"85+ years"	"85+"	"Not Hispanic or Latino"	"2186-5"	"Asian"	"A"	8396
+	"Illinois"	"17"	"85+ years"	"85+"	"Not Hispanic or Latino"	"2186-5"	"Black or African American"	"2054-5"	26115
+	"Illinois"	"17"	"85+ years"	"85+"	"Not Hispanic or Latino"	"2186-5"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	25
+	"Illinois"	"17"	"85+ years"	"85+"	"Not Hispanic or Latino"	"2186-5"	"White"	"2106-3"	216038
+	"Illinois"	"17"	"85+ years"	"85+"	"Not Hispanic or Latino"	"2186-5"	"More than one race"	"M"	1223
+"Total"	"Illinois"	"17"	"85+ years"	"85+"	"Not Hispanic or Latino"	"2186-5"			252134
+"Total"	"Illinois"	"17"	"85+ years"	"85+"					266674
+"Total"	"Illinois"	"17"							12741080
+"Total"									12741080
+"---"
+"Dataset: Single-Race Population Estimates 2010-2018"
+"Query Parameters:"
+"States: Illinois (17)"
+"Yearly July 1st Estimates: 2018"
+"Group By: State; Age Group; Ethnicity; Race"
+"Show Totals: True"
+"Show Zero Values: False"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/single-race.html for more information."
+"---"
+"Query Date: Jun 19, 2020 11:48:10 AM"
+"---"
+"Suggested Citation: Single-race Population Estimates, United States, 2010-2018. July 1st resident population by state, county,"
+"age, sex, single-race, and Hispanic origin, on CDC WONDER Online Database. Vintage 2018 estimates released by U.S. Census Bureau"
+"on June 20, 2019. Accessed at http://wonder.cdc.gov/single-race-v2018.html on Jun 19, 2020 11:48:10 AM"
+"---"
+Messages:
+"1. Rows with zero Population are hidden. Use Quick Options above to show zero rows."
+"---"
+Footnotes:
+"1. Estimates for 2010-2018 are single-race Vintage 2018 postcensal estimates of the July 1 resident population. These estimates"
+"were prepared and released by the U.S. Census Bureau on June 20, 2019."
+"---"
+Caveats:
