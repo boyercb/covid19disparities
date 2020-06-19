@@ -1,5 +1,5 @@
 library(tidyverse)
-library(tidycensus)
+library(lubridate)
 library(jsonlite)
 library(gt)
 
@@ -95,12 +95,34 @@ idph <- select(idph, race, age_group, tested, cases, deaths)
 
 df <- left_join(idph, census, by = c("age_group", "race"))
 df <- arrange(df, race, age_group) 
-# df <- 
-#   df %>%
-#   group_by(race) %>%
-#   mutate(race = replace(race, row_number() > 1, "")) %>%
-#   ungroup()
+
+# like CDC data define start of observation to be February 1
+FU <- time_length(date("2020-06-18") - date("2020-02-01"), unit = "years")
+PER100K <- 1 / 100000  
+
+# calculate the mortality rate
+df <- mutate(df, rate = deaths / (population * FU * PER100K))
   
+# calculate irrs 
+irrs <- 
+  df %>% 
+  select(race, age_group, rate) %>%
+  pivot_wider(names_from = race, values_from = rate) %>%
+  mutate_at(vars(-age_group, -White), ~ . / !! as.symbol("White")) %>%
+  mutate(White = 1) %>%
+  pivot_longer(-age_group, names_to = "race", values_to = "irr")
+
+# calculate irds 
+irds <- 
+  df %>% 
+  select(race, age_group, rate) %>%
+  pivot_wider(names_from = race, values_from = rate) %>%
+  mutate_at(vars(-age_group, -White), ~ . - !! as.symbol("White")) %>%
+  mutate(White = 0) %>%
+  pivot_longer(-age_group, names_to = "race", values_to = "ird")
+
+df <- left_join(df, irrs)
+df <- left_join(df, irds)
 
 # make table --------------------------------------------------------------
 
@@ -150,10 +172,24 @@ gt(select(df, -race)) %>%
     group = "White",
     rows = 64:72
   ) %>%
+  fmt_number(
+    columns = 2:5,
+    decimals = 0,
+    suffixing = FALSE
+  ) %>%
+  fmt_number(
+    columns = 6:8,
+    decimals = 2,
+    suffixing = FALSE
+  ) %>%
+  cols_align(align = "center") %>%
   cols_label(
     age_group = html("Age group"),
     tested = html("Tested<br>(N)"),
     cases = html("Cases<br>(N)"),
     deaths = html("Deaths<br>(N)"),
-    population = html("Population<br>(N)")
+    population = html("Population<br>(N)"), 
+    rate = html("Rate per 100,000 <br> person-years"),
+    irr = html("Rate ratio"),
+    ird = html("Rate difference")
   )
