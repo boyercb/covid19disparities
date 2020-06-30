@@ -21,6 +21,36 @@ functions {
       }
     return(res);
   }
+  
+  real calculate_rr_rng(int[] num, matrix x, int[] outcome, vector coef, int idy, int idy_ref) {
+    int N;
+    int N_ref;
+    int idx[count_elem(x[:, idy], 1)];
+    int idx_ref[count_elem(x[:, idy_ref], 1)];
+    int events_hat[count_elem(x[:, idy], 1)];
+    int events_hat_ref[count_elem(x[:, idy_ref], 1)];
+    real pr = 0;
+    real pr_ref = 0;
+    
+    N = count_elem(x[:, idy], 1);
+    N_ref = count_elem(x[:, idy_ref], 1);
+    
+    idx = which_elem(x[:, idy], 1);
+    idx_ref = which_elem(x[:, idy_ref], 1);
+    
+    events_hat = binomial_rng(num[idx], inv_logit(x[idx] * coef));
+    events_hat_ref = binomial_rng(num[idx_ref], inv_logit(x[idx_ref] * coef));
+    
+    for (i in 1:N) {
+      pr += 1.0 * events_hat[i] / num[idx][i];
+    }
+    
+    for (i in 1:N_ref) {
+      pr_ref += 1.0 * events_hat_ref[i] / num[idx_ref][i];
+    }
+    
+    return((pr / N) / (pr_ref / N_ref));
+  }
 }
 
 data {
@@ -30,69 +60,63 @@ data {
   int deaths[N];
   int pop[N];
   int cases[N];
+  int tests[N];
 }
 
 parameters {
   vector[K] beta;
   vector[K] gamma;
+  vector[K] alpha;
 }
 
 transformed parameters {
   vector[K] p;
   vector[K] q;
+  vector[K] r;
   p = inv_logit(x * gamma);
   q = inv_logit(x * beta);
+  r = inv_logit(x * alpha);
 }
 
 model {
   beta ~ normal(0, 10);
   gamma ~ normal(0, 10);
+  alpha ~ normal(0, 10);
   cases ~ binomial(pop, p);
   deaths ~ binomial(cases, q);
+  tests ~ binomial(pop, r);
 }
 
 generated quantities {
-  real<lower=0> rr_case;
-  real<lower=0> rr_death;
-  int N_black;
-  int N_white;
-
+  real<lower=0> rr_case_aian;
+  real<lower=0> rr_test_aian;
+  real<lower=0> rr_death_aian;
+  real<lower=0> rr_case_asian;
+  real<lower=0> rr_test_asian;
+  real<lower=0> rr_death_asian;
+  real<lower=0> rr_case_black;
+  real<lower=0> rr_test_black;
+  real<lower=0> rr_death_black;
+  real<lower=0> rr_case_latinx;
+  real<lower=0> rr_test_latinx;
+  real<lower=0> rr_death_latinx;
+  real<lower=0> rr_case_nhpi;
+  real<lower=0> rr_test_nhpi;
+  real<lower=0> rr_death_nhpi;
   
-  N_black = count_elem(x[:,3], 1);
-  N_white = count_elem(x[:,6], 1);
-  
-  {
-    int idx_black[N_black];
-    int idx_white[N_white];
-    int cases_hat_black[N_black];
-    int cases_hat_white[N_white];
-    int deaths_hat_black[N_black];
-    int deaths_hat_white[N_white];
-    real pr_case_black;
-    real pr_case_white;
-    real pr_death_black;
-    real pr_death_white;
-    
-    idx_black = which_elem(x[:,3], 1);
-    idx_white = which_elem(x[:,6], 1);
-    
-    cases_hat_black = binomial_rng(pop[idx_black], inv_logit(x[idx_black] * gamma));
-    deaths_hat_black = binomial_rng(cases[idx_black], inv_logit(x[idx_black] * beta));
-    
-    cases_hat_white = binomial_rng(pop[idx_white], inv_logit(x[idx_white] * gamma));
-    deaths_hat_white = binomial_rng(cases[idx_white], inv_logit(x[idx_white] * beta));
-  
-    pr_case_black = sum(cases_hat_black);
-    pr_case_black = pr_case_black / (N_black * sum(pop[idx_black]) * 1.0);
-    pr_death_black = sum(deaths_hat_black);
-    pr_death_black = pr_death_black / (N_black * sum(cases[idx_black]) * 1.0);
-    
-    pr_case_white = sum(cases_hat_white);
-    pr_case_white = pr_case_white / (N_white * sum(pop[idx_white]) * 1.0);
-    pr_death_white = sum(deaths_hat_white);
-    pr_death_white = pr_death_white / (N_white * sum(cases[idx_white]) * 1.0);
-    
-    rr_case = pr_case_black / pr_case_white;
-    rr_death = pr_death_black / pr_death_white;
-  }
+  rr_case_aian = calculate_rr_rng(pop, x, cases, gamma, 1, 6);
+  rr_test_aian = calculate_rr_rng(pop, x, tests, alpha, 1, 6);
+  rr_death_aian = calculate_rr_rng(cases, x, deaths, beta, 1, 6);
+  rr_case_asian = calculate_rr_rng(pop, x, cases, gamma, 2, 6);
+  rr_test_asian = calculate_rr_rng(pop, x, tests, alpha, 2, 6);
+  rr_death_asian = calculate_rr_rng(cases, x, deaths, beta, 2, 6);
+  rr_case_black = calculate_rr_rng(pop, x, cases, gamma, 3, 6);
+  rr_test_black = calculate_rr_rng(pop, x, tests, alpha, 3, 6);
+  rr_death_black = calculate_rr_rng(cases, x, deaths, beta, 3, 6);
+  rr_case_latinx = calculate_rr_rng(pop, x, cases, gamma, 4, 6);
+  rr_test_latinx = calculate_rr_rng(pop, x, tests, alpha, 4, 6);
+  rr_death_latinx = calculate_rr_rng(cases, x, deaths, beta, 4, 6);
+  rr_case_nhpi = calculate_rr_rng(pop, x, cases, gamma, 5, 6);
+  rr_test_nhpi = calculate_rr_rng(pop, x, tests, alpha, 5, 6);
+  rr_death_nhpi = calculate_rr_rng(cases, x, deaths, beta, 5, 6);
 }
